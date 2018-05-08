@@ -1,0 +1,44 @@
+﻿body {
+    background: #5BA7A4;
+    background: -webkit-radial-gradient(circle, #8cccca, #5BA7A4);
+    background: -moz-radial-gradient(circle, #8cccca, #5BA7A4);
+    background: radial-gradient(circle, #8cccca, #5BA7A4);
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.navbar {
+    background-color: #006b6e !important;
+    min-height: 100px !important
+}
+
+.navbar-brand {
+    color: #FFF;
+    font-weight: bolder;
+    font-size: 2.3em;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    font-size: 1.2em;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+.card-header {
+    background-color: #BEE8E6;
+}
+
+.card-body {
+    background-color: #EBFAFA;
+}
+
+.thead {
+    background-color: #BEE8E6;
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Sprsml-Web.config Connection String" description="Sprsml Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='|DataDirectory|SprsmlDatabase.mdf';Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Dokumenter\\Skole\ Dataingeniør\\5\.\ semester\\Webapplikasjoner\\Oblig\ 3\\KundeService\\KundeService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Sprsml']/@connectionString" />
+  </parameter>
+  <parameter name="KundeService.Models.SprsmlContext-Web.config Connection String" description="KundeService.Models.SprsmlContext Connection String used in web.config by the application to access the database." defaultValue="KundeService.Models.SprsmlContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Dokumenter\\Skole\ Dataingeniør\\5\.\ semester\\Webapplikasjoner\\Oblig\ 3\\KundeService\\KundeService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='KundeService.Models.SprsmlContext']/@connectionString" />
+  </parameter>
+</parameters>

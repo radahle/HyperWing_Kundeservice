@@ -1,0 +1,155 @@
+﻿<div class="my-nav">
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-5">
+        <a class="navbar-brand" href="#">Kundeservice</a>
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a class="nav-item nav-link pointer active" data-toggle="tab" (click)="visFAQ()">Ofte Stilte Spørsmål</a>
+            </li>
+            <li>
+                <a class="nav-item nav-link pointer" data-toggle="tab" (click)="registrerSprsml()">Spør oss</a>
+            </li>
+            <li>
+                <a class="nav-item nav-link pointer" data-toggle="tab" (click)="visBrukerSprsml()">Innsendte spørsmål</a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+
+<div *ngIf="visBrukerSprsmlListe">
+    <div class="card" style="width: 50rem;">
+        <div class="card-body">
+            <h4>Innsendte spørsmål</h4>
+            <div *ngIf="laster">Laster spørsmål.....</div>
+
+            <table id="tabell" class="table table-hover">
+                <thead class="thead">
+                    <tr>
+                        <th class="pointer" (click)="sort('id')">
+                            Id
+                            <i class="fa" [ngClass]="{'fa-sort': kolonne != 'id', 'fa-sort-asc': (kolonne == 'id' && synkende), 'fa-sort-desc': (kolonne == 'id' && !synkende) }" aria-hidden="true"> </i>
+                        </th>
+                        <th class="pointer" (click)="sort('sprsml')">
+                            Spørsmål
+                            <i class="fa" [ngClass]="{'fa-sort': kolonne != 'sprsml', 'fa-sort-asc': (kolonne == 'sprsml' && synkende), 'fa-sort-desc': (kolonne == 'sprsml' && !synkende) }" aria-hidden="true"> </i>
+                        </th>
+                        <th class="pointer" (click)="sort('email')">
+                            kolonne
+                            <i class="fa" [ngClass]="{'fa-sort': kolonne != 'email', 'fa-sort-asc': (kolonne == 'email' && synkende), 'fa-sort-desc': (kolonne == 'email' && !synkende) }" aria-hidden="true"> </i>
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody *ngFor="let sprsml of alleBrukerSprsml | sorter: {property: kolonne, retning: retning}">
+                    <tr>
+                        <td>{{sprsml.id}}</td>
+                        <td>{{sprsml.sprsml}}</td>
+                        <td>{{sprsml.email}}</td>
+                        <td><button class="btn btn-outline-danger" (click)="sletteBrukerSprsml(sprsml.id)">Slett</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div *ngIf="visFAQListe">
+    <div class="card" style="width: 50rem;">
+        <div class="card-body">
+            <h4>Ofte stilte spørsmål</h4>
+            <form class="form-inline mt-2 mt-md-0">
+                <input type="text" class="form-control mr-sm-2" name="searchString" placeholder="Søk på spørsmål" [(ngModel)]="searchString">
+            </form>
+            <br />
+            <div *ngIf="laster">Laster spørsmål.....</div>
+            <div *ngIf="searchString.length > 0; else elseBlock">
+                <div id="searchAccordion" role="tablist">
+                    <div class="card">
+                        <div *ngFor="let sprsml of alleFAQ | filter: 'sprsml' : searchString; let k = index">
+
+                            <div class="card-header">
+                                <h5 class="mb-0">
+                                    <a data-toggle="collapse" style="cursor:pointer" aria-expanded="true" [attr.data-target]="'#' + k" data-parent="#searchAccordion">{{sprsml.sprsml}}</a>
+                                </h5>
+                            </div>
+                            <div class="collapse show" [attr.id]="k">
+                                <div class="card-body">
+                                    <p>{{sprsml.svar}}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <ng-template #elseBlock>
+                <div id="accordion" role="tablist">
+                    <div class="card">
+                        <div *ngFor="let kategori of alleKategorier; let i=index">
+                            <div class="card-header">
+                                <h5 class="mb-0">
+                                    <a style="cursor:pointer" data-toggle="collapse" [attr.data-target]="'#' + i" data-parent="#accordion">{{kategori | uppercase}}</a>
+                                </h5>
+                            </div>
+                            <div class="collapse" [attr.id]="i">
+                                <div class="card-body">
+
+                                    <div class="card">
+                                        <div *ngFor="let sprsml of alleFAQ | filter: 'sprsml' : searchString; let j=index">
+                                            <div *ngIf="kategori==sprsml.kategori">
+                                                <div class="card-header">
+                                                    <h5 class="mb-0">
+                                                        <a style="cursor:pointer" data-toggle="collapse" [attr.data-target]="'#' + 'prefix' + j + i" data-parent="#accordion">{{sprsml.sprsml}}</a>
+                                                    </h5>
+                                                </div>
+                                                <div class="collapse" [attr.id]=" 'prefix' + j + i">
+                                                    <div class="card-body">
+                                                        <p>{{sprsml.svar}}</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </ng-template>
+        </div>
+    </div>
+</div>
+
+
+
+<div *ngIf="visSkjema">
+    <div class="card" style="width: 25rem;">
+        <div class="card-body">
+            <h4>Send inn ditt spørsmål her</h4>
+            <form [formGroup]="skjema" (ngSubmit)="vedSubmit()">
+                <input class="form-control" formControlName="id" type="hidden" />
+
+                <div class="form-group">
+                    <label>Email</label>
+                    <input class="form-control" formControlName="email" placeholder="Email"/>
+                    <p class="alert alert-warning" [hidden]="skjema.controls.email.valid || (skjema.controls.email.pristine && !submitted)">
+                        Email er obligatorisk.
+                    </p>
+                </div>
+
+                <div class="form-group">
+                    <label>Spørsmål</label>
+                    <textarea class="form-control" formControlName="sprsml" placeholder="Skriv ditt spørsmål her" rows="5"></textarea>
+                    <p class="alert alert-warning" [hidden]="skjema.controls.sprsml.valid || (skjema.controls.sprsml.pristine && !submitted)">
+                        Spørsmål er obligatorisk.
+                    </p>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" *ngIf="skjemaStatus=='Registrere'" [disabled]="!skjema.valid" class="btn btn-primary">Registrer</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,174 @@
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.IO.Compression.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.ValueTuple.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\VBCSCompiler.exe
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csc.exe
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csc.exe.config
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csc.rsp
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csi.exe
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csi.exe.config
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\csi.rsp
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.AppContext.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Console.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Claims.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Threading.Thread.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\vbc.exe
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\vbc.exe.config
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\vbc.rsp
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Antlr3.Runtime.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\EntityFramework.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\EntityFramework.SqlServer.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Newtonsoft.Json.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Net.Http.Formatting.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Helpers.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Http.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Http.WebHost.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Mvc.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Optimization.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Razor.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.Razor.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\WebGrease.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Antlr3.Runtime.pdb
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\EntityFramework.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\EntityFramework.SqlServer.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\Newtonsoft.Json.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Helpers.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Mvc.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Optimization.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Razor.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.WebPages.Razor.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Net.Http.Formatting.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Http.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\System.Web.Http.WebHost.xml
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\obj\Debug\KundeService.csproj.CoreCompileInputs.cache
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\obj\Debug\KundeService.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\obj\Debug\KundeService.pdb
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\KundeService.dll.config
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\KundeService.dll
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\bin\KundeService.pdb
+C:\Users\RudiAndre\Desktop\KundeService\KundeService\KundeService\obj\Debug\KundeService.csprojResolveAssemblyReference.cache
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csc.exe
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csc.exe.config
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csc.rsp
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csi.exe
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csi.exe.config
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\csi.rsp
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.AppContext.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Collections.Immutable.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Console.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Diagnostics.Process.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.IO.Compression.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.IO.Pipes.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.AccessControl.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Claims.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Threading.Thread.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.ValueTuple.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Xml.XPath.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\vbc.exe
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\vbc.exe.config
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\vbc.rsp
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\VBCSCompiler.exe
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\roslyn\VBCSCompiler.exe.config
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\KundeService.dll.config
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\KundeService.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\KundeService.pdb
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Antlr3.Runtime.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\EntityFramework.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\EntityFramework.SqlServer.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Microsoft.Web.Infrastructure.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Newtonsoft.Json.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Net.Http.Formatting.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Helpers.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Http.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Http.WebHost.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Mvc.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Optimization.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Razor.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.Deployment.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.Razor.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\WebGrease.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Antlr3.Runtime.pdb
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\EntityFramework.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\EntityFramework.SqlServer.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\Newtonsoft.Json.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Helpers.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Mvc.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Optimization.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Razor.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.Deployment.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.WebPages.Razor.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Net.Http.Formatting.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Http.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\bin\System.Web.Http.WebHost.xml
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\obj\Debug\KundeService.csprojResolveAssemblyReference.cache
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\obj\Debug\KundeService.csproj.CoreCompileInputs.cache
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\obj\Debug\KundeService.dll
+D:\Dokumenter\Skole Dataingeniør\5. semester\Webapplikasjoner\Oblig 3\KundeService\KundeService\obj\Debug\KundeService.pdb
